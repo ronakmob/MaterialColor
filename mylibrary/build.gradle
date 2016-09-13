@@ -3,20 +3,20 @@ apply plugin: 'com.android.library'
 
 ext {
     bintrayRepo = 'maven'
-    bintrayName = 'MateriaColor'
+    bintrayName = 'MaterialColor'
 
     publishedGroupId = 'com.ronak.mob'
-    libraryName = 'material-color'
-    artifact = 'MateriaColor'
+    libraryName = 'mylibrary'
+    artifact = 'MaterialColor'
 
     libraryDescription = 'A library to update material colors'
 
     siteUrl = 'https://github.com/ronakmob/MaterialColor'
     gitUrl = 'https://github.com/ronakmob/MaterialColor.git'
 
-    libraryVersion = '1.0.1'
+    libraryVersion = '1.0'
 
-    developerId = 'rmehta'
+    developerId = 'ronakmob'
     developerName = 'Ronak Mehta'
     developerEmail = 'rmehta@mobiquityinc.com'
 
