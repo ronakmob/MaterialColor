@@ -10,7 +10,6 @@ public class MaterialColorPalette {
 
     private static List<String> mMaterialColors = new ArrayList<String>();
 
-    // TODO :: Seprate the colors.
     static {
         // Red
         // mMaterialColors.add("#e51c23");
