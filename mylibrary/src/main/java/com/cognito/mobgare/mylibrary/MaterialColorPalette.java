@@ -6,7 +6,11 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-public class MaterialColorPalette {
+public final class MaterialColorPalette {
+
+    private MaterialColorPalette(){
+
+    }
 
     private static List<String> mMaterialColors = new ArrayList<String>();
 
